@@ -11,12 +11,13 @@
   </a>
 </div>
 
-<p>🌟 <strong>Welcome to my GitHub profile!</strong> 🌟</p>
-    <p>I specialize in the dynamic world of <strong>data science</strong>, <strong>data analysis</strong>, and <strong>data engineering</strong>, with more than 5 years of professional experience spanning software development, systems administration, and data center operations. My career has been focused on implementing innovative solutions both on-premise and in the cloud, standing out for my ability to transform technical challenges into efficient and scalable solutions that add value to the business environment.</p>
-    <p>🚀 Throughout my career, I've proven to be a passionate problem-solver, always in search of the next big solution. Whether working on on-premise projects or navigating the complexities of cloud computing, I strive to deliver outcomes that not only solve problems but also drive growth and innovation.</p>
-    <p>💡 I'm constantly exploring new technologies and methodologies to stay ahead in this ever-evolving field. My goal is to create solutions that are not just technically sound, but also intuitive and accessible for those who use them.</p>
-    <p>📈 With a strong focus on quality and sustainability, I am committed to adding value and exceeding expectations in everything I do.</p>
-    <p>Thank you for visiting my profile! Follow me to stay updated on my latest projects and contributions.</p>
+  <p>🌟 <strong>Welcome to my GitHub profile!</strong> 🌟</p>
+  <p>🔍 I specialize in the dynamic world of <strong>data science</strong> 📊, <strong>data analysis</strong> 🔢, and <strong>data engineering</strong> 🛠️, with more than 5 years of professional experience spanning software development 💻, systems administration 🖥️, and data center operations 🏢. My career has been focused on implementing innovative solutions both on-premise 🏠 and in the cloud ☁️, standing out for my ability to transform technical challenges into efficient and scalable solutions that add value to the business environment 📈.</p>
+  <p>🚀👨‍🔬 Throughout my career, I've proven to be a passionate problem-solver 🧩, always in search of the next big solution 💡. Whether working on on-premise projects 🏠 or navigating the complexities of cloud computing ☁️, I strive to deliver outcomes that not only solve problems but also drive growth 📈 and innovation 💥.</p>
+  <p>🔧💻 I'm constantly exploring new technologies and methodologies 🔬 to stay ahead in this ever-evolving field 🌐. My goal is to create solutions that are not just technically sound 🎯, but also intuitive and accessible for those who use them 🌟.</p>
+  <p>✨🌱 With a strong focus on quality 🏆 and sustainability ♻️, I am committed to adding value and exceeding expectations in everything I do .</p>
+  <p>🙏 Thank you for visiting my profile! 🙌 Follow me 👣 to stay updated on my latest projects and contributions 🚀📚.</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -67,6 +68,3 @@
     </td>
   </tr>
 </table>
-
-
-
