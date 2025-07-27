@@ -12,10 +12,18 @@
 </div>
 
   <p>🌟 <strong>Welcome to my GitHub profile!</strong> 🌟</p>
-  <p>🔍 I specialize in the dynamic world of <strong>data engineering</strong> 📊, <strong>data analysis</strong> 🔢, and <strong>data science</strong> 🛠️, with more than 5 years of professional experience spanning software development 💻, systems administration 🖥️, and data center operations 🏢. My career has been focused on implementing innovative solutions both on-premise 🏠 and in the cloud ☁️, standing out for my ability to transform technical challenges into efficient and scalable solutions that add value to the business environment 📈.</p>
-  <p>🚀👨‍🔬 Throughout my career, I've proven to be a passionate problem-solver 🧩, always in search of the next big solution 💡. Whether working on on-premise projects 🏠 or navigating the complexities of cloud computing ☁️, I strive to deliver outcomes that not only solve problems but also drive growth 📈 and innovation 💥.</p>
-  <p>🔧💻 I'm constantly exploring new technologies and methodologies 🔬 to stay ahead in this ever-evolving field 🌐. My goal is to create solutions that are not just technically sound 🎯, but also intuitive and accessible for those who use them 🌟.</p>
-  <p>✨🌱 With a strong focus on quality 🏆 and sustainability ♻️, I am committed to adding value and exceeding expectations in everything I do .</p>
+<p>
+I'm a <strong>data engineer</strong> with <strong>6+ years of experience</strong> in software development, systems administration, and data center operations.
+I specialize in building scalable, efficient solutions in both <strong>on-premise</strong> and <strong>cloud environments</strong> ☁️.
+</p>
+
+<p>
+Passionate about solving complex problems and driving innovation, I aim to create intuitive, high-quality solutions that deliver real business value 📈.
+</p>
+
+<p>
+Always exploring new technologies, I'm committed to continuous learning and impactful contributions.
+</p>
   <p>🙏 Thank you for visiting my profile! 🙌 Follow me 👣 to stay updated on my latest projects and contributions 🚀📚.</p>
 
 
